@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cheerio": "*",
+    "fs": "*"
+  }
+}
