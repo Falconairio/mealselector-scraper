@@ -1,0 +1,2 @@
+# Meal Selector Scraper 
+Program for scraping recipes from various websites. Grabs the name of the food, the link to the recipe, and the image link for displaying on https://meal-suggestor.herokuapp.com/. Originally in the same repo as the website but moved here to keep it separate.
